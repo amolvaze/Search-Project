@@ -1,0 +1,481 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"text",
+				"textarea	Tag"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"fo",
+				"footer	Tag"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"he",
+				"max-height"
+			],
+			[
+				"wid",
+				"max-width"
+			],
+			[
+				"alig",
+				"align-self"
+			],
+			[
+				"width",
+				"min-width"
+			],
+			[
+				"img",
+				"imgLink"
+			],
+			[
+				"vlue",
+				"value"
+			],
+			[
+				"im",
+				"image"
+			],
+			[
+				"blo",
+				"inline-block"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"ima",
+				"imagealternatetext"
+			],
+			[
+				"li",
+				"link"
+			],
+			[
+				"new",
+				"newText"
+			],
+			[
+				"u",
+				"url"
+			],
+			[
+				"value",
+				"value1"
+			],
+			[
+				"space",
+				"spaces"
+			],
+			[
+				"paddi",
+				"padding-right"
+			],
+			[
+				"f",
+				"firstname"
+			],
+			[
+				"to",
+				"toString"
+			],
+			[
+				"s",
+				"style"
+			],
+			[
+				"al",
+				"alert"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"pars",
+				"parse"
+			],
+			[
+				"JS",
+				"JSON"
+			],
+			[
+				"h",
+				"href	Attr"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 4074,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "test.js",
+			"settings":
+			{
+				"buffer_size": 3320,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "styles.css",
+			"settings":
+			{
+				"buffer_size": 5044,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"last_filter": "install pack",
+		"selected_items":
+		[
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Amol/Desktop/Component"
+	],
+	"file_history":
+	[
+		"/C/Users/Amol/Desktop/Component/test.js",
+		"/C/Users/Amol/Desktop/Component/data.json",
+		"/C/Users/Amol/Desktop/Component/styles.css",
+		"/C/Users/Amol/Desktop/Component/filter.js",
+		"/C/Users/Amol/Desktop/Component/index.html",
+		"/C/Users/Amol/Desktop/Component/highlight.js",
+		"/C/Users/Amol/Desktop/Component/componet.html",
+		"/C/Users/Amol/Desktop/Component/script.js",
+		"/C/Users/Amol/Desktop/Component/flternew.js",
+		"/C/Users/Amol/Desktop/Component/componet.sublime-project",
+		"/C/Users/Amol/Desktop/sample.html"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"input-group",
+			"ui-wrapper",
+			".ui-menu",
+			"ui-widget-content",
+			"form",
+			"autocom",
+			"068BB8",
+			"blue",
+			"collapse",
+			"bs-e",
+			"ui-au",
+			"alert",
+			"navbar",
+			"if",
+			"==",
+			"newArr",
+			"suggestURL",
+			"label",
+			"list",
+			"labels",
+			"props",
+			"companies",
+			"artist",
+			"albums",
+			"artists",
+			"artist",
+			"name",
+			"artists",
+			"albums",
+			"44315",
+			"736",
+			"employee",
+			"employees"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"#085C78",
+			"#068BB8",
+			"data",
+			"myurl",
+			"url",
+			"name",
+			"b",
+			"a",
+			"main",
+			"d",
+			"spaces",
+			"main",
+			"d",
+			"main",
+			"name",
+			"spaces",
+			"w",
+			"workspace"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4074,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4064,
+								4064
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "test.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3320,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2317,
+								2317
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "styles.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5044,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3132,
+								3132
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "componet.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,238 @@
+        body {
+            margin: 20px;
+            background: #ccc;
+        }
+        .search-box {
+            position: relative;
+
+        }
+        .search-box .glyphicon {
+            position: absolute;
+            padding: 10px;
+            pointer-events: none;
+            left: 15px;
+            top: 0px;
+
+        }
+        .search-box .glyphicon:before {
+            color: white;
+            transition: all 0.2s linear;
+        }
+        .search-box input {
+            color: #fff;
+            padding-left: 60px;
+            background: #546e7a;
+            border:0;
+            outline: none !important;
+            transition: all 0.2s linear;
+        }
+        .search-box input:focus {
+            background: #fff !important;
+            outline: 0;
+            color: #333;
+
+        }
+        .search-box input:focus + .glyphicon:before {
+            color: #333;
+
+        }
+        .search-box input:hover {
+            background: #78909C;
+        }
+
+        /* autocomplete UI styles added */
+
+        .ui-autocomplete {
+            /*max-height: 200px; */
+            max-height: auto;
+            overflow-y: auto;
+            /* prevent horizontal scrollbar */
+            overflow-x: hidden; 
+
+            padding-right: auto;
+            /*background: #F0EEE9; */
+            background: white;
+            max-width: auto;
+            list-style: none;
+            border-color: #574747;
+            z-index: 1000;
+            border-style: solid;
+            border-width: 1px; 
+            -webkit-border-radius: 7px;
+            -moz-border-radius: 7px;
+            border-radius: 7px;
+            -webkit-box-shadow: 0 5px 10px rgba(#574747, #574747, #574747, 0.2);
+            -moz-box-shadow: 0 5px 10px rgba(#574747, #574747, #574747, 0.2);
+            box-shadow: 0 5px 10px rgba(#574747, #574747, #574747, 0.2);
+            -webkit-background-clip: padding-box;
+            -moz-background-clip: padding;
+            background-clip: padding-box;
+            *border-right-width: 2px;
+            *border-bottom-width: 2px;
+
+        } 
+        
+
+        .ui-autocomplete-input{
+            min-width: 200px;
+            margin-right: 50px;
+            align-self: left;
+        }
+
+
+        .ui-state-hover{
+            color: #ffffff;
+            text-decoration: none;
+            background-color: #0088cc;
+            border-radius: 0px;
+            -webkit-border-radius: 0px;
+            -moz-border-radius: 0px;
+            background-image: none;
+
+
+        }
+
+        
+
+        .ui-state-active{
+
+            color: #ffffff;
+            text-decoration: none;
+            background-color: #0088cc;
+            border-radius: 0px;
+            -webkit-border-radius: 0px;
+            -moz-border-radius: 0px;
+            background-image: none;   
+
+
+        }
+
+        .ui-menu-item > a.ui-corner-all {
+
+           display: block;
+           padding: 3px 15px;
+           clear: both;
+           font-weight: normal;
+           line-height: 18px;
+           color: #555555;
+           white-space: nowrap;
+
+
+       }
+
+
+       * html .ui-autocomplete {
+         height: 100px;
+     }
+
+
+     .fixed-height {
+        padding: 1px;
+        max-height: 200px;
+        overflow: auto;
+    }
+
+
+    /* highlight class */
+
+    .ui-autocomplete .highlight {
+        /* text-decoration: underline; */
+        font-weight: bold;
+        /*color:yellow; */
+        background: yellow
+    }
+
+    /* search nav bar styling */
+
+    .navbar .navbar-form{
+        padding: 0 15px;
+        border: 0;
+        -webkit-box-shadow: none;
+        box-shadow: none;
+    }
+
+    /* Class added for image */
+
+    .imageClass {
+        width: 50px;
+        height: 50px;
+        padding-right: 8px;
+        margin: 5px;
+        border: 1px solid #04222B;
+    }
+
+    *::after, *::before {
+        box-sizing: border-box;
+        width: 440px;
+        margin-left: 1 em;
+        margin-right: 1 em;
+    }
+
+    ul.ui-autocomplete.ui-menu li a{
+        color:#5C6263;
+        font-weight: bold;
+        font-family: Verdana;
+
+    }
+
+    .content{ 
+
+       color:white;
+       font-family: :Verdana;
+       font-size: 14;
+       margin: auto;
+       font-weight: bold;
+       padding:10px;
+       border: 1px dotted #2B9CC2;
+       background: #127596;
+       max-width: auto;
+       max-height: auto;
+       -webkit-border-radius: 7px;
+       -moz-border-radius: 7px;
+       border-radius: 7px;
+   }
+
+   .footer{
+
+     color:white;
+     background: #127596;
+     height: 50px;
+     text-align: center;
+     text-align-top:10px;
+     clear: both;
+     -webkit-border-radius: 7px;
+     -moz-border-radius: 7px;
+     border-radius: 7px;
+     margin-left: auto;
+     margin-right: auto;
+
+
+ } 
+
+
+
+ .form-control ui-autocomplete-input:focus{
+
+   border-color:#ccc;
+   outline: 0;
+   -webkit-box-shadow: none;
+   box-shadow: none;
+
+}   
+
+
+.ui-menu{
+
+    overflow: scroll;
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    border-radius: 7px;
+
+}
+
+.txtarea{
+  margin-right: 50px;
+  align: center;
+  padding-left: 12px;
+
+}
