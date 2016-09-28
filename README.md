@@ -2,7 +2,7 @@
 
 JQuery Auto-complete Search Application by Amol Vaze.
 
-Technologies Used:- HTMl5, Boostrap, JavaScript, JQuery
+Technologies Used:- HTML5, Boostrap, JavaScript, JQuery
 
 Data Source Used : JSON:- https://gist.github.com/RSpace/bba1b5067f79c6778cff
 
