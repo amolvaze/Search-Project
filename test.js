@@ -1,5 +1,6 @@
  // Code developed by Amol Vaze in 2016
 // This particular file aims to acheive all the UI drop down functions.
+// This is core js file which takes care of all the functionalities of this application.
 
  $(function() {
 
